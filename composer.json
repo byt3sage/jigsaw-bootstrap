@@ -1,0 +1,15 @@
+{
+    "name": "jaetooledev/jigsaw-bootstrap",
+    "description": "Barebones starter template for Jigsaw that comes with Bootstrap 5 included by default",
+    "keywords": ["blog", "jigsaw", "bootstrap", "jigsaw starter template", "static", "site", "generator", "personal"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jae Toole",
+            "email": "jae@jaetoole.dev"
+        }
+    ],
+    "require": {
+        "tightenco/jigsaw": "^1.3"
+    }
+}

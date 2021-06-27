@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "mix",
+        "watch": "mix watch",
+        "staging": "NODE_ENV=staging mix",
+        "prod": "mix --production"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.9.2",
+        "bootstrap": "^5.*",
+        "laravel-mix": "^6.0.10",
+        "laravel-mix-jigsaw": "^1.5.0",
+        "sass": "^1.35.1",
+        "sass-loader": "^12.1.0"
+    }
+}
