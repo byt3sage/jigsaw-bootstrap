@@ -3,6 +3,7 @@
     "description": "Barebones starter template for Jigsaw that comes with Bootstrap 5 included by default",
     "keywords": ["blog", "jigsaw", "bootstrap", "jigsaw starter template", "static", "site", "generator", "personal"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Jae Toole",
